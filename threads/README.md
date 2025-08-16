@@ -7,6 +7,9 @@ Threads API: [https://developers.facebook.com/docs/threads/get-started/](https:/
 ## Postman
 [Threads API | Documentation](https://www.postman.com/meta/threads/documentation/dht3nzz/threads-api)
 
+## n8n Community
+[Threads API integration - Questions](https://community.n8n.io/t/threads-api-integration/61150)
+
 ## Info
 
 The Threads API, provided by Meta, allows developers to integrate with the Threads platform. This API enables applications to interact with Threads on behalf of users, facilitating various functionalities for creators, brands, and businesses.
