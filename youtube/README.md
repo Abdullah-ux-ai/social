@@ -1,4 +1,4 @@
-![YouTube](YouTube-Logo.png)
+<!--![YouTube](YouTube-Logo.png)*\-->
 
 ## YouTube API
 
